@@ -1,5 +1,6 @@
 This is SerialIP version 1.0, a wrapper library around uIP, which provides the 
-Arduino with TCP/IP connectivity over its built-in serial port.
+Arduino with TCP/IP connectivity over its built-in serial port, with SLIP
+(RFC1055) protocol.
 
 The wrapper library was written by Adam Nielsen <malvineous@shikadi.net>
 
